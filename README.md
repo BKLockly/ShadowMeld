@@ -67,6 +67,9 @@ cargo tauri build --release
 ![img.png](./static/vtp.png)
 ![img.png](./static/vt.png)
 
+![img.png](./static/360sandbox.png)
+![img.png](./static/360sandboxPic.png)
+
 ![img.png](./static/wbp.png)
 ![img.png](./static/wb.png)
 
