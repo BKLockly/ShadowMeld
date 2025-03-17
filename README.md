@@ -3,10 +3,13 @@
 **Stealthy Shellcode Embedding**  **&amp;**  **Carrier Loader Generator**
 *A Tauri+Rust tool to hide payloads in media files and generate undetectable loaders.*
 
-https://img.shields.io/badge/Rust-1.70%2B-orange?logo\=rust
-https://img.shields.io/badge/Tauri-2.0-blue?logo\=tauri
-https://img.shields.io/badge/License-GPLv3-red
-
+<div align="center">
+  
+  [![Rust 1.70+](https://img.shields.io/badge/Rust-1.70%2B-orange?logo=rust)](https://www.rust-lang.org/)
+  [![Tauri 2.0](https://img.shields.io/badge/Tauri-2.0-blue?logo=tauri)](https://tauri.app/)
+  [![License Apache](https://img.shields.io/badge/License-Apache-red)](https://www.apache.org/licenses/)
+  
+</div>
 ---
 
 ## 1.1 🔍 项目概述
