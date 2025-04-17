@@ -16,6 +16,10 @@
 
 **ShadowMeld** 是一个针对安全研究者的**隐蔽数据嵌入工具**，可将二进制载荷（如 Shellcode）无缝注入png，bmp等常见文件格式，并生成专用的内存加载器（Loader），实现**无文件痕迹**的隐蔽执行。
 
+> 🤯 v 0.1.1 
+
+![img.png](./static/v0.1.1.png)
+
 > 更多内容详见博客: [https://www.cnblogs.com/bktown/p/18775589/tauri-newbie-shellcode-loader-based-on-lsb-steganography-zfguxj](https://www.cnblogs.com/bktown/p/18775589/tauri-newbie-shellcode-loader-based-on-lsb-steganography-zfguxj)
 ---
 
